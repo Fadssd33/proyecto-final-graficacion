@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\bin\Debug\Proyecto Final Graficacion.exe
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\bin\Debug\Proyecto Final Graficacion.pdb
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\Debug\Proyecto Final Graficacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\Debug\Proyecto_Final_Graficacion.Form1.resources
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\Debug\Proyecto_Final_Graficacion.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\Debug\Proyecto Final Graficacion.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\Debug\Proyecto Final Graficacion.exe
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\Debug\Proyecto Final Graficacion.pdb

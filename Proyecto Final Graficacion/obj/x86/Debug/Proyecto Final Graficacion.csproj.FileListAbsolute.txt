@@ -1,0 +1,25 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Proyecto Final Graficacion\Proyecto Final Graficacion\bin\x86\Debug\Proyecto Final Graficacion.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Proyecto Final Graficacion\Proyecto Final Graficacion\bin\x86\Debug\Proyecto Final Graficacion.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto_Final_Graficacion.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto_Final_Graficacion.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.pdb
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.exe
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.pdb
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\bin\x86\Debug\Proyecto Final Graficacion.exe
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\bin\x86\Debug\Proyecto Final Graficacion.pdb
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto_Final_Graficacion.Form1.resources
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto_Final_Graficacion.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\bin\x86\Debug\Proyecto Final Graficacion.exe
+C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\bin\x86\Debug\Proyecto Final Graficacion.pdb
+C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto_Final_Graficacion.Form1.resources
+C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto_Final_Graficacion.Properties.Resources.resources
+C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.exe
+C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.pdb
