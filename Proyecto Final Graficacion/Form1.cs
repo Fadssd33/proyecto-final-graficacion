@@ -136,7 +136,7 @@ namespace Proyecto_Final_Graficacion
             vertex[33] = new CustomVertex.PositionColored(new Vector3(-28, 4, 0), Color.Red.ToArgb());
             vertex[34] = new CustomVertex.PositionColored(new Vector3(-3, 1, 0), Color.Green.ToArgb());
             vertex[35] = new CustomVertex.PositionColored(new Vector3(-3, 4, 0), Color.Navy.ToArgb());
-
+                
 
             
             //frontal barda derecha trasera
@@ -162,10 +162,11 @@ namespace Proyecto_Final_Graficacion
             vertex[47] = new CustomVertex.PositionColored(new Vector3(-3, 4, 0), Color.Navy.ToArgb());
 
             */
+
             bardaDerecha();
 
 
-            dibujarPuertita();
+            //dibujarPuertita();
 
 
 
@@ -175,7 +176,7 @@ namespace Proyecto_Final_Graficacion
             device.BeginScene();
             device.VertexFormat = CustomVertex.PositionColored.Format;
 
-            device.DrawUserPrimitives(PrimitiveType.TriangleList, 69, vertex);
+            device.DrawUserPrimitives(PrimitiveType.TriangleList, 100, vertex);
 
             device.EndScene();
             device.Present();
@@ -192,8 +193,123 @@ namespace Proyecto_Final_Graficacion
 
         private void bardaDerecha()
         {
-            // Parte frontal
-                //Superior
+            // Parte exterior
+            // inferior
+            //vertex[42] = new CustomVertex.PositionColored(new Vector3(-28, 4, 0), Color.Green.ToArgb());
+            //vertex[43] = new CustomVertex.PositionColored(new Vector3(-28, 1, -28), Color.Blue.ToArgb());
+            //vertex[44] = new CustomVertex.PositionColored(new Vector3(-28, 1, 0), Color.Purple.ToArgb());
+            vertex[42] = new CustomVertex.PositionColored(new Vector3(-28, 1, 0), Color.Green.ToArgb());
+            vertex[43] = new CustomVertex.PositionColored(new Vector3(-28, 1, -28), Color.Blue.ToArgb());
+            vertex[44] = new CustomVertex.PositionColored(new Vector3(-28, 4, 0), Color.Purple.ToArgb());
+
+            // Superior
+            //vertex[45] = new CustomVertex.PositionColored(new Vector3(-28, 4, 0), Color.Green.ToArgb());
+            //vertex[46] = new CustomVertex.PositionColored(new Vector3(-28, 4, -28), Color.Blue.ToArgb());
+            //vertex[47] = new CustomVertex.PositionColored(new Vector3(-28, 1, -28), Color.Purple.ToArgb());
+            vertex[45] = new CustomVertex.PositionColored(new Vector3(-28, 1, -28), Color.Green.ToArgb());
+            vertex[46] = new CustomVertex.PositionColored(new Vector3(-28, 4, -28), Color.Blue.ToArgb());
+            vertex[47] = new CustomVertex.PositionColored(new Vector3(-28, 4, 0), Color.Purple.ToArgb());
+
+            // PARTE INTERIOR BARDA
+            // inferior
+            //vertex[48] = new CustomVertex.PositionColored(new Vector3(-27, 4, 0), Color.Green.ToArgb());
+            //vertex[49] = new CustomVertex.PositionColored(new Vector3(-27, 1, -28), Color.Blue.ToArgb());
+            //vertex[50] = new CustomVertex.PositionColored(new Vector3(-27, 1, 0), Color.Purple.ToArgb());
+            vertex[48] = new CustomVertex.PositionColored(new Vector3(-27, 1, 0), Color.Green.ToArgb());
+            vertex[49] = new CustomVertex.PositionColored(new Vector3(-27, 1, -28), Color.Blue.ToArgb());
+            vertex[50] = new CustomVertex.PositionColored(new Vector3(-27, 4, 0), Color.Purple.ToArgb());
+
+            // Superior
+            //vertex[51] = new CustomVertex.PositionColored(new Vector3(-27, 4, 0), Color.Green.ToArgb());
+            //vertex[52] = new CustomVertex.PositionColored(new Vector3(-27, 4, -28), Color.Blue.ToArgb());
+            //vertex[53] = new CustomVertex.PositionColored(new Vector3(-27, 1, -28), Color.Purple.ToArgb());
+            vertex[51] = new CustomVertex.PositionColored(new Vector3(-27, 1, -28), Color.Green.ToArgb());
+            vertex[52] = new CustomVertex.PositionColored(new Vector3(-27, 4, -28), Color.Blue.ToArgb());
+            vertex[53] = new CustomVertex.PositionColored(new Vector3(-27, 4, 0), Color.Purple.ToArgb());
+
+
+
+            // BARDA TRASERA
+            // atras
+            //vertex[54] = new CustomVertex.PositionColored(new Vector3(-28, 1, -28), Color.Green.ToArgb());
+            //vertex[55] = new CustomVertex.PositionColored(new Vector3(-28, 4, -28), Color.Blue.ToArgb());
+            //vertex[56] = new CustomVertex.PositionColored(new Vector3(28, 1, -28), Color.Purple.ToArgb());
+            vertex[54] = new CustomVertex.PositionColored(new Vector3(28, 1, -28), Color.Green.ToArgb());
+            vertex[55] = new CustomVertex.PositionColored(new Vector3(-28, 4, -28), Color.Blue.ToArgb());
+            vertex[56] = new CustomVertex.PositionColored(new Vector3(-28, 1, -28), Color.Purple.ToArgb());
+            //vertex[57] = new CustomVertex.PositionColored(new Vector3(28, 4, -28), Color.Green.ToArgb());
+            //vertex[58] = new CustomVertex.PositionColored(new Vector3(-28, 4, -28), Color.Blue.ToArgb());
+            //vertex[59] = new CustomVertex.PositionColored(new Vector3(28, 1, -28), Color.Purple.ToArgb());
+            vertex[57] = new CustomVertex.PositionColored(new Vector3(28, 1, -28), Color.Green.ToArgb());
+            vertex[58] = new CustomVertex.PositionColored(new Vector3(-28, 4, -28), Color.Blue.ToArgb());
+            vertex[59] = new CustomVertex.PositionColored(new Vector3(28, 4, -28), Color.Purple.ToArgb());
+
+            // frente
+            //vertex[60] = new CustomVertex.PositionColored(new Vector3(-28, 1, -27), Color.Green.ToArgb());
+            //vertex[61] = new CustomVertex.PositionColored(new Vector3(-28, 4, -27), Color.Blue.ToArgb());
+            //vertex[62] = new CustomVertex.PositionColored(new Vector3(28, 1, -27), Color.Purple.ToArgb());
+            vertex[60] = new CustomVertex.PositionColored(new Vector3(28, 1, -27), Color.Green.ToArgb());
+            vertex[61] = new CustomVertex.PositionColored(new Vector3(-28, 4, -27), Color.Blue.ToArgb());
+            vertex[62] = new CustomVertex.PositionColored(new Vector3(-28, 1, -27), Color.Purple.ToArgb());
+            //vertex[63] = new CustomVertex.PositionColored(new Vector3(28, 4, -27), Color.Green.ToArgb());
+            //vertex[64] = new CustomVertex.PositionColored(new Vector3(-28, 4, -27), Color.Blue.ToArgb());
+            //vertex[65] = new CustomVertex.PositionColored(new Vector3(28, 1, -27), Color.Purple.ToArgb());
+
+            vertex[63] = new CustomVertex.PositionColored(new Vector3(28, 1, -27), Color.Green.ToArgb());
+            vertex[64] = new CustomVertex.PositionColored(new Vector3(28, 4, -27), Color.Blue.ToArgb());
+            vertex[65] = new CustomVertex.PositionColored(new Vector3(-28, 4, -27), Color.Purple.ToArgb());
+
+            // Barda frente izquierda
+            //vertex[66] = new CustomVertex.PositionColored(new Vector3(28, 4, 0), Color.Green.ToArgb());
+            //vertex[67] = new CustomVertex.PositionColored(new Vector3(28, 1, 0), Color.Blue.ToArgb());
+            //vertex[68] = new CustomVertex.PositionColored(new Vector3(3, 1, 0), Color.Purple.ToArgb());
+            vertex[66] = new CustomVertex.PositionColored(new Vector3(3, 1, 0), Color.Green.ToArgb());
+            vertex[67] = new CustomVertex.PositionColored(new Vector3(28, 1, 0), Color.Blue.ToArgb());
+            vertex[68] = new CustomVertex.PositionColored(new Vector3(28, 4, 0), Color.Purple.ToArgb());
+            //vertex[69] = new CustomVertex.PositionColored(new Vector3(28, 4, 0), Color.Green.ToArgb());
+            //vertex[70] = new CustomVertex.PositionColored(new Vector3(3, 1, 0), Color.Blue.ToArgb());
+            //vertex[71] = new CustomVertex.PositionColored(new Vector3(3, 4, 0), Color.Purple.ToArgb());
+            vertex[69] = new CustomVertex.PositionColored(new Vector3(3, 4, 0), Color.Green.ToArgb());
+            vertex[70] = new CustomVertex.PositionColored(new Vector3(3, 1, 0), Color.Blue.ToArgb());
+            vertex[71] = new CustomVertex.PositionColored(new Vector3(28, 4, 0), Color.Purple.ToArgb());
+
+
+            // barda trasera izquierda
+            //vertex[72] = new CustomVertex.PositionColored(new Vector3(28, 4, -1), Color.Green.ToArgb());
+            //vertex[73] = new CustomVertex.PositionColored(new Vector3(28, 1, -1), Color.Blue.ToArgb());
+            //vertex[74] = new CustomVertex.PositionColored(new Vector3(3, 1, -1), Color.Purple.ToArgb());
+            vertex[72] = new CustomVertex.PositionColored(new Vector3(3, 1, -1), Color.Green.ToArgb());
+            vertex[73] = new CustomVertex.PositionColored(new Vector3(28, 1, -1), Color.Blue.ToArgb());
+            vertex[74] = new CustomVertex.PositionColored(new Vector3(28, 4, -1), Color.Purple.ToArgb());
+            //vertex[75] = new CustomVertex.PositionColored(new Vector3(28, 4, -1), Color.Green.ToArgb());
+            //vertex[76] = new CustomVertex.PositionColored(new Vector3(3, 1, -1), Color.Blue.ToArgb());
+            //vertex[77] = new CustomVertex.PositionColored(new Vector3(3, 4, -1), Color.Purple.ToArgb());
+            vertex[75] = new CustomVertex.PositionColored(new Vector3(3, 4, -1), Color.Green.ToArgb());
+            vertex[76] = new CustomVertex.PositionColored(new Vector3(3, 1, -1), Color.Blue.ToArgb());
+            vertex[77] = new CustomVertex.PositionColored(new Vector3(28, 4, -1), Color.Purple.ToArgb());
+
+            // barda izquierda lateral fuera
+            //vertex[78] = new CustomVertex.PositionColored(new Vector3(28, 4, -28), Color.Green.ToArgb());
+            //vertex[79] = new CustomVertex.PositionColored(new Vector3(28, 1, 0), Color.Blue.ToArgb());
+            //vertex[80] = new CustomVertex.PositionColored(new Vector3(28, 4, 0), Color.Purple.ToArgb());
+            vertex[78] = new CustomVertex.PositionColored(new Vector3(28, 4, -28), Color.Green.ToArgb());
+            vertex[79] = new CustomVertex.PositionColored(new Vector3(28, 1, 0), Color.Blue.ToArgb());
+            vertex[80] = new CustomVertex.PositionColored(new Vector3(28, 4, 0), Color.Purple.ToArgb());
+            //vertex[81] = new CustomVertex.PositionColored(new Vector3(28, 4, -28), Color.Green.ToArgb());
+            //vertex[82] = new CustomVertex.PositionColored(new Vector3(28, 1, 0), Color.Blue.ToArgb());
+            //vertex[83] = new CustomVertex.PositionColored(new Vector3(28, 1, -28), Color.Purple.ToArgb());
+            vertex[81] = new CustomVertex.PositionColored(new Vector3(28, 1, -28), Color.Green.ToArgb());
+            vertex[82] = new CustomVertex.PositionColored(new Vector3(28, 1, 0), Color.Blue.ToArgb());
+            vertex[83] = new CustomVertex.PositionColored(new Vector3(28, 4, -28), Color.Purple.ToArgb());
+
+            // Barda izquierda latera interior
+            vertex[84] = new CustomVertex.PositionColored(new Vector3(27, 4, -28), Color.Green.ToArgb());
+            vertex[85] = new CustomVertex.PositionColored(new Vector3(27, 1, 0), Color.Blue.ToArgb());
+            vertex[86] = new CustomVertex.PositionColored(new Vector3(27, 4, 0), Color.Purple.ToArgb());
+            vertex[87] = new CustomVertex.PositionColored(new Vector3(27, 1, -28), Color.Green.ToArgb());
+            vertex[88] = new CustomVertex.PositionColored(new Vector3(27, 1, 0), Color.Blue.ToArgb());
+            vertex[89] = new CustomVertex.PositionColored(new Vector3(27, 4, -28), Color.Purple.ToArgb());
+
 
         }
         private void btnXmas_Click_1(object sender, EventArgs e)

@@ -23,3 +23,16 @@ C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacio
 C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.exe
 C:\Users\Admin\source\repos\Proyecto Final Graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.pdb
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\bin\x86\Debug\Proyecto Final Graficacion.exe
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\bin\x86\Debug\Proyecto Final Graficacion.pdb
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto_Final_Graficacion.Form1.resources
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto_Final_Graficacion.Properties.Resources.resources
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.csproj.CopyComplete
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.exe
+C:\Users\Admin\source\repos\proyecto-final-graficacion\Proyecto Final Graficacion\obj\x86\Debug\Proyecto Final Graficacion.pdb
